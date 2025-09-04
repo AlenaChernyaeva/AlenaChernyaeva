@@ -51,7 +51,7 @@ https://github.com/AlenaChernyaeva/MongoDB
 
 <div>
   <img src="https://logosandtypes.com/wp-content/uploads/2020/08/memoq.svg" title="memoQ" alt="memoQ" width="40" height="40"/>&nbsp
-  <img src="https://github.com/AlenaChernyaeva/test/blob/main/Xloc%20logo.png" title="XLOC" alt="XLOC" width="40" height="40"/>&nbsp
+  <img src="https://github.com/AlenaChernyaeva/Other/blob/main/Xloc%20logo.png" title="XLOC" alt="XLOC" width="40" height="40"/>&nbsp
 </div>
 
 ---
