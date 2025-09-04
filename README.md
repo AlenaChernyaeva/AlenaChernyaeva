@@ -14,17 +14,17 @@ I'm a localization tester (RU) who is always looking for new opportunities and n
 ### What I've learned so far:
 
 - Check lists
-https://github.com/AlenaChernyaeva/Check-List-Demoshopping
-https://github.com/AlenaChernyaeva/Check-List-Shopping-List
+1. https://github.com/AlenaChernyaeva/Check-List-Demoshopping
+2. https://github.com/AlenaChernyaeva/Check-List-Shopping-List
 
 - Test cases
-https://github.com/AlenaChernyaeva/Test-Cases-Demoshopping
-https://github.com/AlenaChernyaeva/Test-Cases-Shopping-List
+1. https://github.com/AlenaChernyaeva/Test-Cases-Demoshopping
+2. https://github.com/AlenaChernyaeva/Test-Cases-Shopping-List
 
 - Bug reports
-https://github.com/AlenaChernyaeva/Bug-Reports-Demoshopping-Registration
-https://github.com/AlenaChernyaeva/Bug-Reports-Demoshopping-Cart
-https://github.com/AlenaChernyaeva/Bug-Reports-Shopping-List
+1. https://github.com/AlenaChernyaeva/Bug-Reports-Demoshopping-Registration
+2. https://github.com/AlenaChernyaeva/Bug-Reports-Demoshopping-Cart
+3. https://github.com/AlenaChernyaeva/Bug-Reports-Shopping-List
 
 - Postman
 https://github.com/AlenaChernyaeva/Postman-Demoshopping
